@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">I am a historian</string>
+    <string name="next">Следующий вопрос</string>
+    <string name="tvTitleText">Викторина по истории</string>
+    <string name="Start">Начать</string>
+    <string name="menuItemExit">Выход</string>
+    <string name="toolbarTitle">Я историк!</string>
+    <string name="questinoTitle">Вопрос викторины</string>
+    <string name="BtnExit">Завершить тестирование</string>
+</resources>
